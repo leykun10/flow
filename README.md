@@ -24,10 +24,10 @@ the app will handle the incoming link with firebase dynamic links and navigate t
 Login Feature
 <p float="left">
  <img src="/screenShots/Screenshot_20210120-110156.jpg" width="150" />
-   <img src="/screenShots/screenShots/Screenshot_20210120-112759.jpg.jpg" width="150" />
+   <img src="/screenShots/Screenshot_20210120-112759.jpg.jpg" width="150" />
 </p>
 Third party Authentication
 <p float="left">
  <img src="/screenShots/Screenshot_20210120-112118_Google Play services.jpg" width="150" />
-   <img src="/screenShots/screenShot/Screenshot_20210120-112759.jpg" width="150" />
+  <img src="/screenShots/Screenshot_20210120-112759.jpg" width="150" />
 </p>
